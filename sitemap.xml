@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://davidguo.cc/</loc>
-    <lastmod>2022-09-25T15:21:23+08:00</lastmod>
+    <loc>http://davidguo.cc/post/addvideo/</loc>
+    <lastmod>2022-09-26T00:24:14+08:00</lastmod>
   </url><url>
-    <loc>http://davidguo.cc/post/firstpost/</loc>
-    <lastmod>2022-09-25T15:21:23+08:00</lastmod>
+    <loc>http://davidguo.cc/</loc>
+    <lastmod>2022-09-26T00:24:14+08:00</lastmod>
   </url><url>
     <loc>http://davidguo.cc/post/</loc>
+    <lastmod>2022-09-26T00:24:14+08:00</lastmod>
+  </url><url>
+    <loc>http://davidguo.cc/post/firstpost/</loc>
     <lastmod>2022-09-25T15:21:23+08:00</lastmod>
   </url><url>
     <loc>http://davidguo.cc/categories/</loc>
