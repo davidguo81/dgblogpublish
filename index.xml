@@ -6,32 +6,63 @@
         <description>Recent content on David Guo Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 26 Sep 2022 00:24:14 +0800</lastBuildDate><atom:link href="http://davidguo.cc/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Addvideo</title>
-        <link>http://davidguo.cc/post/addvideo/</link>
-        <pubDate>Mon, 26 Sep 2022 00:24:14 +0800</pubDate>
+        <lastBuildDate>Mon, 03 Oct 2022 17:52:23 +0800</lastBuildDate><atom:link href="http://davidguo.cc/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://davidguo.cc/posts/lunyu/</link>
+        <pubDate>Sun, 02 Oct 2022 17:45:12 +0800</pubDate>
         
-        <guid>http://davidguo.cc/post/addvideo/</guid>
-        <description>&lt;p&gt;This is perfect video for ebedded youtube video into markdown script&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://youtu.be/G3Cytlicv8Y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://img.youtube.com/vi/G3Cytlicv8Y/0.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Watch the video&#34;
-	
-	
-&gt;&lt;/a&gt;&lt;/p&gt;
+        <guid>http://davidguo.cc/posts/lunyu/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>博客说明</title>
+        <link>http://davidguo.cc/about/</link>
+        <pubDate>Sat, 01 Oct 2022 01:21:40 +0800</pubDate>
+        
+        <guid>http://davidguo.cc/about/</guid>
+        <description>&lt;p&gt;this is blog of davidguo, contact me at &lt;a class=&#34;link&#34; href=&#34;mailto:davidguogys@gmail.com&#34; &gt;davidguogys@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;this blob includes material I collected&lt;/p&gt;
+&lt;p&gt;this blod includes material I wrote or video I made&lt;/p&gt;
+&lt;p&gt;this blog used hugo and github pages&lt;/p&gt;
+&lt;p&gt;the blod wrote with markdown, VS code and Git on Mac&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Firstpost from David Guo</title>
-        <link>http://davidguo.cc/post/firstpost/</link>
+        <title>Addvideo</title>
+        <link>http://davidguo.cc/posts/addvideo/</link>
+        <pubDate>Mon, 26 Sep 2022 00:24:14 +0800</pubDate>
+        
+        <guid>http://davidguo.cc/posts/addvideo/</guid>
+        <description>&lt;p&gt;this is test for paragraph; to test&lt;/p&gt;
+&lt;p&gt;let&amp;rsquo;s test1&lt;br&gt;
+let&amp;rsquo;s test2&lt;/p&gt;
+&lt;p&gt;This is perfect video for ebedded youtube video into markdown script&lt;/p&gt;
+&lt;p&gt;video1: &lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/MUQfKFzIOeU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;video2: &lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/CMtN_LUpeLg&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>首篇</title>
+        <link>http://davidguo.cc/posts/firstpost/</link>
         <pubDate>Sun, 25 Sep 2022 15:21:23 +0800</pubDate>
         
-        <guid>http://davidguo.cc/post/firstpost/</guid>
+        <guid>http://davidguo.cc/posts/firstpost/</guid>
         <description>&lt;p&gt;Birthday of David Guo Blog!!!&lt;/p&gt;
 </description>
         </item>
